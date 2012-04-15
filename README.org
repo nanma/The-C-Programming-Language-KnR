@@ -1,7 +1,7 @@
-#+TITLE:     README.org
+#+TITLE:     
 #+AUTHOR:    
 #+EMAIL:     nxmanan@gmail.com
-#+DATE:      2012-04-15 ÖÜÈÕ
+#+DATE:      2012-04-15 ï¿½ï¿½ï¿½ï¿½
 #+DESCRIPTION:
 #+KEYWORDS:
 #+LANGUAGE:  en
