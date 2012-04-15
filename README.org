@@ -1,7 +1,7 @@
 #+TITLE:     
 #+AUTHOR:    
 #+EMAIL:     nxmanan@gmail.com
-#+DATE:      2012-04-15 ����
+#+DATE:      2012-04-15
 #+DESCRIPTION:
 #+KEYWORDS:
 #+LANGUAGE:  en
